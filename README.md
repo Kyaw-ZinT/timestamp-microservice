@@ -16,6 +16,7 @@ Returns an error message for invalid dates.
 
 1️⃣ Clone the repository
 https://github.com/Kyaw-ZinT/timestamp-microservice.git
+
 2️⃣ Install dependencies
 npm install express cors dotenv nodemon
 
